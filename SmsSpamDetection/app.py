@@ -1,11 +1,13 @@
 import streamlit as st
 import pickle
 import re
+import os
 
-with open('SmsSpamDetection/best_spam_model.pkl', 'rb') as f:
+print("Current working directory:", os.getcwd())
+with open('best_spam_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open('SmsSpamDetection/tfidf_vectorizer.pkl', 'rb') as f:
+with open('tfidf_vectorizer.pkl', 'rb') as f:
     vectorizer = pickle.load(f)
 
 def clean_text(text):
