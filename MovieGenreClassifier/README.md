@@ -14,3 +14,31 @@ A machine learning model that classifies movie genres from plot summaries using 
 
 4 **Model interpretability showing top predictive keywords**
 
+ ## Getting Started
+
+To use the SMS Spam Detection web app locally, follow these steps:
+
+1. **Clone the repository** to your local machine:
+   ```bash
+   git clone https://github.com/bhargavi-misra/CodSoft.git
+   
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the Program**
+   ```bash
+   streamlit run app.py
+
+4. **Access the app in your browser at:**
+   ```bash
+   http://localhost:8501
+
+---
+## Future Improvements
+
+- Add more genres and bigger dataset for better accuracy
+- Deploy on cloud platforms for easy sharing
+- Enhance UI/UX with better input validation & suggestions
+
