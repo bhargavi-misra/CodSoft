@@ -31,7 +31,7 @@ To use the Movie Genre Prediction web app locally, follow these steps:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/bhargavi-misra/CodSoft.git
+   git clone https://github.com/bhargavi-misra/CodSoft/tree/main/MovieGenreClassifier
    
 
 2. **Install dependencies:**
@@ -70,4 +70,4 @@ Source: https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 If you have any questions or issues, feel free to contact 
 
 - Bhargavi Misra: bhargavimisra@gmail.com
-- Project Link: https://github.com/bhargavi-misra/CodSoft/tree/main/SmsSpamDetection
+- Project Link: https://github.com/bhargavi-misra/CodSoft/tree/main/MovieGenreClassifier
