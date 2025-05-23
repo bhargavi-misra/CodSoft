@@ -86,4 +86,4 @@ Source: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 If you have any questions or issues, feel free to contact 
 
 - Bhargavi Misra: bhargavimisra@gmail.com
-- Project Link: 
+- Project Link: https://github.com/bhargavi-misra/CodSoft/tree/main/SmsSpamDetection
