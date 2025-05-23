@@ -4,7 +4,7 @@ import re
 import os
 
 print("Current working directory:", os.getcwd())
-with open('best_spam_model.pkl', 'rb') as f:
+with open('SmsSpamDetection/best_spam_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
 with open('tfidf_vectorizer.pkl', 'rb') as f:
