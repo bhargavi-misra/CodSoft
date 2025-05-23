@@ -5,7 +5,7 @@ import re
 with open('SmsSpamDetection/best_spam_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open('tfidf_vectorizer.pkl', 'rb') as f:
+with open('SmsSpamDetection/tfidf_vectorizer.pkl', 'rb') as f:
     vectorizer = pickle.load(f)
 
 def clean_text(text):
