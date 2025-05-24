@@ -1,4 +1,4 @@
-# Movie Genre Classification System
+# Movie Genre Prediction System
 
 A machine learning model that classifies movie genres from plot summaries using NLP techniques. Achieves 92% accuracy on multi-label classification.
 
