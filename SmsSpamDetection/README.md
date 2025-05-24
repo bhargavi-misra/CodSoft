@@ -1,4 +1,4 @@
-#  Spam SMS Detection Web App  
+#  Spam SMS Detection
 
 A lightweight, user-friendly web application that detects spam messages with machine learning. Built using Python, Scikit-learn, and Streamlit. 
 
